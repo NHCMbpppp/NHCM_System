@@ -1,6 +1,6 @@
 # NHCMShortcutSystem
-A shortcut system to use iPhone and iPad easily.  
-# Supported version  
+A shortcut system to use iPhone and iPad easily like a new operating system.  
+# Supported iOS/iPadOS version  
 YOU NEED TO KOWN:  
 It's not that you can't use NHCMShortcutSystem if you don't reach the required system version, but you MAY BE not support some fuctions, because some functions must require your system version to be higher.  
   
