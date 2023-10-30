@@ -15,6 +15,11 @@ It's not that you can't use NHCMShortcutSystem if you don't reach the required s
 # Run  
 (1.0-1.52):Run "System" and you can use all the functions in NHCM System.  
 (1.6-~):Need app "Reminders" and run "Runner" to use all fuctions in NHCM Sustem.  
+# Possible potential problems  
+Cause some apple's fucking bug, Some shortcuts' saving may have problem.  
+That's saved edit doesn't vaild!  
+So, if you find that some fuctions didn't update.  
+PLEASE TELL ME AS SOON AS YOU CAN!  
 # About me  
 Discord:nhcmbpppp  
 Email:NHCMbethegod@outlook.com  
