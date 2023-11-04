@@ -1,5 +1,3 @@
-# NHCMShortcutSystem
-A shortcut system to use iPhone and iPad easily like a new operating system.    
 # Supported iOS/iPadOS version  
 YOU NEED TO KOWN:  
 It's not that you can't use NHCMShortcutSystem if you don't reach the required system version, but you MAY BE not support some fuctions, because some functions must require your system version to be higher.  
@@ -13,7 +11,7 @@ It's not that you can't use NHCMShortcutSystem if you don't reach the required s
 4.Make sure that you added then all to use.  
 # Run  
 (1.0-1.52):Run "System" and you can use all the functions in NHCM System.  
-(1.6-~):Need app "Reminders" and run "Runner" to use all fuctions in NHCM Sustem.  
+(1.6-~):Need app "Reminders" and run "Runner" to use all fuctions in NHCM System.  
 # Possible potential problems  
 Cause some apple's fucking bug, Some shortcuts' saving may have problem.  
 That's saved edit doesn't vaild!  
@@ -23,5 +21,4 @@ PLEASE TELL ME AS SOON AS YOU CAN!
 Discord:nhcmbpppp  
 Email:NHCMbethegod@outlook.com  
 Wechat:NHCMhappyforever  
-X:@nhcmbpppp  
 DONATE ME THAT FUCKING MONEY!!!!!!
